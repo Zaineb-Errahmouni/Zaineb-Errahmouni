@@ -19,11 +19,6 @@
     
 🛠**Tech Stack**
 
-!PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
-![XML](https://img.shields.io/badge/-XML-000000?style=flat&logo=XML)
-
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
