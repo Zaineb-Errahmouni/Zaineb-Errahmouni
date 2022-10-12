@@ -11,8 +11,7 @@
 
 💻 **Things I love**
 
-- Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Web Development 🤓
+- Backend Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - PHP  ✍️
 - JAVA  😬
 - Python 🧐
