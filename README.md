@@ -1,14 +1,41 @@
-<h1 align="center">Hi 👋, I'm Zaineb Errahmouni</h1>
-<h3 align="center">Interested in full stack developer from Morocco</h3>
 
-- 📫 How to reach me **errahmouni.zaineb@gmail.com**
+### Hi there, I am ZAINEB ERRAHMOUNI 👋
+[![Linkedin Badge](https://img.shields.io/badge/-zaineberrahmouni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaineberrahmouni/)](https://www.linkedin.com/in/zaineberrahmouni/)
+[![Gmail Badge](https://img.shields.io/badge/-errahmouni.zaineb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:errahmouni.zaineb@gmail.com)](mailto:errahmouni.zaineb@gmail.com) 
 
-- ⚡ Fun fact **I think I am funny**
+- 🎯 Portfolio website: [Portfolio]()
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+💻 **Things I love**
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Backend Development ✍️
+- Web Development 🤓
+- Machine Learning 🧐
+- Data Science 😬
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    </a>
+    
+🛠**Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
+
 
