@@ -10,11 +10,12 @@
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
-- PHP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- JAVA 😬
-- Python 🧐
-- Full Stack Development ✍️
+
+- Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Web Development 🤓
+- PHP  ✍️
+- JAVA  😬
+- Python 🧐
 
 
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
