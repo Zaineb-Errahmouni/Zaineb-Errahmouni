@@ -14,10 +14,15 @@
 - Data Science 😬
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=ZAINEB ERRAHMOUNI&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 🛠**Tech Stack**
+
+!PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
+![XML](https://img.shields.io/badge/-XML-000000?style=flat&logo=XML)
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
