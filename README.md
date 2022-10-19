@@ -18,8 +18,8 @@
 - Machine Learning 😬
 
 
-   <a href="https://github.com/zaineb-errahmouni/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=zaineberrahmouni&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+   <a href="https://github.com/Zaineb-Errahmouni/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Zaineb-Errahmouni&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 🛠**Tech Stack**
