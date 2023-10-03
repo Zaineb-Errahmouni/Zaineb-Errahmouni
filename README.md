@@ -1,7 +1,9 @@
 <div id="badges" align="center">
 <img  src="https://github.com/Zaineb-Errahmouni/Zaineb-Errahmouni/blob/main/myBackground.png" alt="Coder GIF" width="800" height="250">
 </div>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/zaineb-errahmouni/">
@@ -12,7 +14,7 @@
   </a>
 </div>
 
-<img align="right" src="https://github.com/Zaineb-Errahmouni/Zaineb-Errahmouni/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+
 
 
 - 🎯 Portfolio website: [Portfolio]()
