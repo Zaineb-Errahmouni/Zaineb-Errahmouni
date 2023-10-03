@@ -1,10 +1,19 @@
+<div id="badges" align="center">
+<img  src="https://github.com/Zaineb-Errahmouni/Zaineb-Errahmouni/blob/main/myBackground.png" alt="Coder GIF" width="800" height="250">
+</div>
+
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/zaineb-errahmouni/">
+    <img src="https://img.shields.io/badge/-zaineberrahmouni-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:errahmouni.zaineb@gmail.com">
+    <img src="https://img.shields.io/badge/-errahmouni.zaineb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
 <img align="right" src="https://github.com/Zaineb-Errahmouni/Zaineb-Errahmouni/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
-
-
-### Hi there, I am ZAINEB ERRAHMOUNI 👋
-[![Linkedin Badge](https://img.shields.io/badge/-zaineberrahmouni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaineb-errahmouni/)](https://www.linkedin.com/in/zaineb-errahmouni/)
-[![Gmail Badge](https://img.shields.io/badge/-errahmouni.zaineb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:errahmouni.zaineb@gmail.com)](mailto:errahmouni.zaineb@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio]()
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
