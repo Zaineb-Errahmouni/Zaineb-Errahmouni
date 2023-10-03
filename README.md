@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-<img  src="https://github.com/Zaineb-Errahmouni/Zaineb-Errahmouni/blob/main/myBackground.png" alt="Coder GIF" width="800" height="250">
+<img  src="https://github.com/Zaineb-Errahmouni/Zaineb-Errahmouni/blob/main/myBackground.png" alt="Coder GIF" width="600" height="300">
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
@@ -15,24 +15,26 @@
 </div>
 
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div id="badges" align="left">
+I am a Full Stack Developer 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+from Morocco 🇲🇦.
+</div>
+</br>
+From minor tasks such as website and app development and devising innovative solutions for everyday challenges, to larger domains like artificial intelligence, and machine learning, these are a few of the areas that captivate my interest in this vast world 🌍.
 
 
 - 🎯 Portfolio website: [Portfolio]()
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-💻 **Things I love**
-
-- Full-stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- PHP  ✍️
-- JAVA  🤓
-- Python 🧐
-- Machine Learning 😬
 
 
-   <a href="https://github.com/Zaineb-Errahmouni/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Zaineb-Errahmouni&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
-    
+   
 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -53,6 +55,31 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+
+
+ ![Snake animation](https://github.com/Sbai-Salah/Zaineb-Errahmouni/blob/main/github-contribution-grid-snake.svg)
+
+---
+
+### :fire: My Stats :
+
+
+<div style="display: flex; justify-content: center;align-items: center;">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zaineb-Errahmouni&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
+
+<div style="display: flex; justify-content: center;align-items: center;">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaineb-Errahmouni&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaineb-Errahmouni&show_icons=true&theme=radical&count_private=true)  
+
+</div>
+
+### Visitors counter 👁️‍:
+![Visitor Count](https://profile-counter.glitch.me/Zaineb-Errahmouni/count.svg)
+
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
