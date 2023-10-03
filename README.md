@@ -1,6 +1,7 @@
 <div id="badges" align="center">
-<img  src="https://github.com/Zaineb-Errahmouni/Zaineb-Errahmouni/blob/main/myBackground.png" alt="Coder GIF" width="600" height="300">
+    <img src="https://github.com/Zaineb-Errahmouni/Zaineb-Errahmouni/blob/main/myBackground.png" width="600" height="300">
 </div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
@@ -57,7 +58,7 @@ From minor tasks such as website and app development and devising innovative sol
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 
- ![Snake animation](https://github.com/Sbai-Salah/Zaineb-Errahmouni/blob/main/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Zaineb-Errahmouni/Zaineb-Errahmouni/blob/main/github-contribution-grid-snake.svg)
 
 ---
 
