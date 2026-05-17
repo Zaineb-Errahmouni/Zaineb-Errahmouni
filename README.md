@@ -15,15 +15,25 @@
   </a>
 </div>
 
-<h1 align="center">
-  Hey there 👋
-</h1>
-
 <p align="center">
-Full Stack Developer (.NET | Angular) from Morocco 🇲🇦
+Hey there 👋.
+I am a Full Stack Developer (.NET | Angular) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco 🇲🇦
 </p>
 
----
+## 🚀 Coding & Learning Platforms
+<div align="center"> 
+    <a href="https://app.daily.dev/errahmouni">
+  <img src="https://img.shields.io/badge/daily.dev-000000?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev Badge"/>
+</a>
+    
+  <a href="https://leetcode.com/ZAINEB-ERRAHMOUNI/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+
+ <a href="https://www.codingame.com/profile/26318ceb84e0a4f81bea373cfdcc8efe8873927">
+    <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" alt="CodingGame Badge"/>
+  </a>
+</div>
 
 ## 👩‍💻 About Me
 
@@ -47,7 +57,7 @@ I work on everything from **web applications to innovative AI-driven solutions**
 ## 🛠 Tech Stack
 
 ### Programming Languages
-![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
