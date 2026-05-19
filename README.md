@@ -1,7 +1,3 @@
-<div id="badges" align="center">
-    <img src="https://github.com/Zaineb-Errahmouni/Zaineb-Errahmouni/blob/main/myBackground.png" width="600" height="300">
-</div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
@@ -128,9 +124,9 @@ I work on everything from **web applications to innovative AI-driven solutions**
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zaineb-Errahmouni&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaineb-Errahmouni&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaineb-Errahmouni&layout=compact&theme=vision-friendly-dark)](https://github.com/Zaineb-Errahmouni/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaineb-Errahmouni&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaineb-Errahmouni&show_icons=true&theme=radical&count_private=true)  
 
 </p>
 
