@@ -38,77 +38,28 @@ I am a **Full Stack Developer passionate about Artificial Intelligence and moder
 I specialize mainly in **backend development with .NET**, and I enjoy building scalable, clean, and efficient systems.
 
 I work on everything from **web applications to innovative AI-driven solutions**, always focusing on performance, clean architecture, and good practices.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="32" height="32" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="32" height="32" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="32" height="32" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32" height="32" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="32" height="32" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" alt="Java" />
+</p>
 
----
-
-## 🧠 Areas of Interest
-
-- Backend Development & APIs
-- Software Architecture & Clean Code
-- DevOps & Cloud Systems
-- Artificial Intelligence & Machine Learning
-
----
-
-## 🛠 Tech Stack
-
-### Programming Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
-
----
-
-### Backend & Frontend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=flat)
-![EF Core](https://img.shields.io/badge/Entity_Framework-000000?style=flat)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-
----
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=flat)
-
----
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=kubernetes)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-000000?style=flat&logo=azuredevops)
-![GitLab](https://img.shields.io/badge/GitLab-000000?style=flat&logo=gitlab)
-
----
-
-### AI / Data / Testing
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv)
-- Unit Testing (TU, TI)
-- Postman / Karate Testing
-
----
-
-## ⚙️ Architecture & Concepts
-
-- DDD (Domain Driven Design)
-- CQRS
-- GraphQL / Apollo
-- REST APIs
-- Microservices Architecture
-
----
-
-## 🧩 Methodology
-
-- Agile / Scrum
-- Scrum Master experience
-- Team collaboration & project management
+![Snake animation](https://raw.githubusercontent.com/Zaineb-Errahmouni/Zaineb-Errahmouni/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -118,28 +69,24 @@ I work on everything from **web applications to innovative AI-driven solutions**
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zaineb-Errahmouni&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaineb-Errahmouni&layout=compact&theme=vision-friendly-dark)](https://github.com/Zaineb-Errahmouni/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaineb-Errahmouni&show_icons=true&theme=radical&count_private=true)  
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zaineb-Errahmouni&theme=dark" alt="GitHub Streak" />
 </p>
 
----
+<table align="center">
+<tr>
+<td>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaineb-Errahmouni&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</td>
+<td>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaineb-Errahmouni&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Zaineb-Errahmouni/Zaineb-Errahmouni/output/github-contribution-grid-snake.svg)
-
----
-
-## 👁 Visitors
-
+### Visitors counter 👁️‍:
 ![Visitor Count](https://profile-counter.glitch.me/Zaineb-Errahmouni/count.svg)
 
 ---
